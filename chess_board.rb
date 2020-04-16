@@ -1,0 +1,3 @@
+class ChessBoard
+
+end
